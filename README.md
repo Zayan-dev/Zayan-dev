@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Zayan</h1>
 <h3 align="center">I'm a self-taught frontend developer based in Pakistan. I'm Proficient in React.js and love to explore other technologies as well.</h3>
 
+- 🌱 I’m currently learning **Cybersecurity,Game Programming,Cloud Computing**
+
 - 👨‍💻 All of my projects are available at [https://my-portfolio-dev-nine.vercel.app/](https://my-portfolio-dev-nine.vercel.app/)
 
+- 💬 Ask me about **react, frontend**
+
 - 📫 How to reach me **zayanirfan8@gmail.com**
+
+- ⚡ Fun fact **I know how to use google😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
